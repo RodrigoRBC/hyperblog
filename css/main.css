@@ -1,16 +1,29 @@
 body{
  text-align:center ;
- color: cornflowerblue;
+ color:darkgray
  font-family: Arial, Helvetica, sans-serif;
 }
 
-h1{
-    color: crimson;
+h1,p{
+    color: darkgray;
+    border: 2px;
+    border-color: dimgray;
 }
 
 #cabecera{
+    
+    width: 900px;
     background-color: #f8f7ed;
     color: deeppink;
     border-radius: 10px;
     padding: 10px;
+    margin-left: 150px;
+}
+#cuerpo{
+    
+    width: 900px;
+    background-color: rgb(223, 220, 228);
+    border-radius: 10px;
+    padding: 10px;
+    margin-left: 150px;
 }
