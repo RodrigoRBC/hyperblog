@@ -2,25 +2,14 @@ body{
  text-align:center ;
  color: cornflowerblue;
  font-family: Arial, Helvetica, sans-serif;
-<<<<<<< HEAD
 }
-=======
-}
->>>>>>> cabecera
 
 h1{
     color: crimson;
 }
 
-<<<<<<< HEAD
-p{
-   color: deepskyblue;
-   text-align: center; 
-   font-family: Georgia, 'Times New Roman', Times, serif;
-=======
 #cabecera{
     background-color: darkgray;
     color: deeppink;
     border-radius: 10px;
->>>>>>> cabecera
 }
