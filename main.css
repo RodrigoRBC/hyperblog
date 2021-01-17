@@ -7,3 +7,9 @@ body{
 h1{
     color: crimson;
 }
+
+#cabecera{
+    background-color: darkgray;
+    color: deeppink;
+    border-radius: 15px;
+}
